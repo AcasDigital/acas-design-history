@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: find-a-solution-to-your-employment-dispute
+title: Find a solution to your employment dispute
 description: Notification service for engaging Acas
 related:
   items:
