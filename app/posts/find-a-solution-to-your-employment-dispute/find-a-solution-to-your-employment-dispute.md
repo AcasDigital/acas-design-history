@@ -6,8 +6,8 @@ related:
   items:
     - text: Prototype
       description: |
-        Username: `acas`
-        Password: `acas777`
+        Username:
+        Password:
       href: https://acas-4.herokuapp.com/
 pagination:
   data: collections.find-a-solution-to-your-employment-dispute
